@@ -13,4 +13,6 @@ public class FirstClass {
 			System.out.println(i);
 		}
 	}
+	
+	public static final String a = "a";
 }
